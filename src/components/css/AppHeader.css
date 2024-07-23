@@ -1,0 +1,15 @@
+.header {
+    background-color: #674F99;
+    padding: 1.5rem 0;
+}
+
+.AppHeader-logo {
+    height: 4.5rem;  
+  }
+
+.conteudo-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 3.25rem;
+  }
